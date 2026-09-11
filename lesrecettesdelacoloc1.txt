@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Les recettes de la coloc</title>
+  <meta property="og:site_name" content="Les recettes de la coloc" />
+</head>
+<body>
+
+<h1>Les recettes de la coloc</h1>
+<div id="recette">
+<p>Contacts : <a href="https://www.instagram.com/les_recettes_de_la_coloc?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==">@les_recettes_de_la_coloc</a> </p>
+<h2>Recettes génialissimes</h2>
+<p>Aujourd'hui nous allons préparer des lasagnes ! </p>
+<img src="lasagnes.jpg" alt="Lasagnes">
+<p>Nous allons vous proposez notre recette pour 6 à 8 personnes </p>
+<p>Temps estimé : 1h </p>
+<p>Pour cela nous aurons besoin des ingrédients suivants. </p>
+<div id="ingrédients">
+<ul> <h3>Ingrédients :</h3>
+<li> Protéines de soja texturées (petites)
+<li> pâtes à lasagnes
+<li> sauce tomate (en pot ou maison) 
+<li> 2 oignons 
+<li> une gousse d'ail
+<li> 200g d'épinards
+<li> lait d'amande (lait végétal: soja, riz, avoine...)
+<li> farine
+<li> huile de colza
+</div>
+<h3>Recette :</h3> 
+<p>1/ Emincer les oignons et couper la gousse d'ail en petits dés. Les faire revenir avec un peu d'huile dans une poelle jusqu'à ce que les oignons caramélisent. </p>
+<p>2/ Dans un bol, faire gonfler les protéines de soja texturées dans de l'eau bouillante.</p>
+<p>3/ Faire cuire les épinards avec un peu de lait </p>
+<p>4/ Ajouter la sauce tomate et les protéines de soja texturées aux oignons caramélisés. </p>
+<p>5/ Préparer la béchamel : <ul>
+<li> Réaliser un roux de la quantité souhaitée (mélange farine et huile) 
+<li> Ajouter du lait petit à petit en remuant à feu moyen jusqu'à épaississement de la béchamel.</ul></p>
+<p>6/ Monter les lasagnes : <ul>
+<li> Commencer par une couche béchamel puis pâtes à lasagnes.
+<li> Continuer avec une couche épinards et béchamel.
+<li> Ensuite sauce tomate.
+<li> Puis à nouveau une couche épinards et béchamel.
+<li> Continuer jusqu'à finir les différentes préparation et terminer par une couche de béchamel.
+</ul>
+<p>7/ Enfourner au four entre 30 et 45 minutes à 200°C.</p>
+<p>Bon appétit !</p>
+ 
+
+</body>
+</html>

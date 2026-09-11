@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #CCEBD3;
+  margin: 40px;
+}
+h1 {
+  color: #057020;
+  text-align: center;
+  font-family: Papyrus;
+  font-size: 4em;
+}
+h2 {
+  color: #079C2C;
+  
+}
+
+
+#image {
+  background-color: #ABDEB7 ;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: white;
+}
+#ingredient {
+  background-color: #ABDEB7 ;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+#recette {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+
+
+h3 {
+  color: #079C2C;
+  
+}
+
+h4 {
+  color: #079C2C;
+  
+}
