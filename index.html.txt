@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Les recettes de la coloc</title>
+  <meta property="og:site_name" content="Les recettes de la coloc" />
+</head>
+<body>
+
+<div id="recette">
+<a class="logo2.jpeg" href="https://www.instagram.com/les_recettes_de_la_coloc?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==">
+                    <img class="logo2.jpeg" src="logo2.jpeg" width="100" height="75" alt="Logo" />
+                </a>
+<h1>Les recettes de la coloc</h1>
+<p>Site internet alternatif à notre futur livre de recettes...</p>
+<p>Vous trouverez des recettes : </p> <ul>
+<li>	 Végétales
+<li>     Pas chères
+<li>     Faciles à faire
+</ul>
+<p>Contact : <a href="https://www.instagram.com/les_recettes_de_la_coloc?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==">@les_recettes_de_la_coloc</a> </p>
+<h2>Recettes génialissimes</h2>
+<b> Episode 1 : Les lasagnes </b>
+<p></p>
+<div id="image">
+<img src="lasagnes.jpeg" alt="Lasagnes" width="250" height="200"> <b>Photo des lasagnes réalisées le 6 septembre 2026 à la coloc. </b>
+</div>
+<p>Nous allons vous proposer notre recette pour 6 à 8 personnes </p>
+<p>Temps estimé : 1h </p>
+<p>Pour cela nous aurons besoin des ingrédients suivants. </p>
+<div id="ingredient">
+<h3>Ingrédients :</h3> <ul>
+<li> protéines de soja texturées (petites)
+<li> pâtes à lasagnes
+<li> sauce tomate (en pot ou maison) 
+<li> 2 oignons 
+<li> une gousse d'ail
+<li> 200g d'épinards
+<li> lait d'amande (lait végétal : soja, riz, avoine...)
+<li> farine
+<li> huile de colza (ou olive, tournesol)
+</div>
+<h4>Recette :</h4> 
+<p>1/ Emincer les oignons et couper la gousse d'ail en petits dés. Les faire revenir avec un peu d'huile dans une poelle jusqu'à ce que les oignons caramélisent. </p>
+<p>2/ Dans un bol, faire gonfler les protéines de soja texturées dans de l'eau bouillante.</p>
+<p>3/ Faire cuire les épinards avec un peu de lait. </p>
+<p>4/ Ajouter la sauce tomate et les protéines de soja texturées aux oignons caramélisés. </p>
+<p>5/ Préparer la béchamel : <ul>
+<li> Réaliser un roux de la quantité souhaitée (mélange farine et huile) 
+<li> Ajouter du lait petit à petit en remuant à feu moyen jusqu'à épaississement de la béchamel.</ul></p>
+<p>6/ Monter les lasagnes : <ul>
+<li> Commencer par une couche béchamel puis pâtes à lasagnes.
+<li> Continuer avec une couche épinards et béchamel.
+<li> Ensuite sauce tomate.
+<li> Puis à nouveau une couche épinards et béchamel.
+<li> Continuer jusqu'à finir les différentes préparation et terminer par une couche de béchamel.
+</ul>
+<p>7/ Enfourner au four entre 30 et 45 minutes à 200°C.</p>
+<p>Bon appétit !</p>
+
+<b> Episode 2 : Les nouilles chinoises </b>
+<p></p>
+<div id="image">
+<img src="nouilles.jpeg" alt="Nouilles" width="250" height="250"> <b>Photo des nouilles chinoises réalisées le 1 septembre 2026 à la coloc. </b>
+</div>
+<p>Nous allons vous proposez notre recette pour 6 personnes </p>
+<p>Temps estimé : 45 minutes </p>
+<p>Pour cela nous aurons besoin des ingrédients suivants. </p>
+<div id="ingredient">
+<h3>Ingrédients :</h3> <ul>
+<li> protéines de soja texturées (grandes)
+<li> 400g de nouilles de riz
+<li> sauce soja claire
+<li> 2 oignons 
+<li> 3 carottes
+<li> 1/2 chou chinois
+<li> huile de colza (ou olive, tournesol)
+</div>
+<h4>Recette :</h4> 
+<p>1/ Emincer les oignons et les faire revenir avec un peu d'huile dans une poelle jusqu'à ce que les oignons caramélisent. </p>
+<p>2/ Dans un bol, faire gonfler les protéines de soja texturées dans de l'eau bouillante.</p>
+<p>3/ Faire cuire les nouilles de riz. </p>
+<p>4/ Essorer les protéines de soja texturées et les ajouter aux oignons puis ajouter de la sauce soja. </p>
+<p>5/ Faire des petits batônnets de carottes et couper grossièrement le chou chinois. </p>
+<p>6/ Les faire cuire dans une casserole et transvaser le jus de cuisson à la préparation des protéines de soja texturées.</p>
+<p>7/ Servir les pâtes dans des assiettes creuses. Ajouter les légumes, les protéines de soja texturées et de la sauce soja.</p> 
+<p>Bon appétit !</p>
+</body>
+</html>
