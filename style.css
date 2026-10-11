@@ -6,7 +6,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #CCEBD3;
   margin: 0 auto;
-  padding: 30px 20px;
+  padding: 30px 20px 30px 60px;
   max-width: 1200px;
   line-height: 1.6;
 }
@@ -236,7 +236,7 @@ footer {
 
 @media (max-width: 768px) {
   body {
-    padding: 20px 15px;
+    padding: 20px 15px 20px 40px;
   }
 
   nav ul li {
@@ -261,7 +261,7 @@ footer {
 
 @media (max-width: 480px) {
   body {
-    padding: 12px 10px;
+    padding: 12px 10px 12px 25px;
   }
 
   nav ul li {
