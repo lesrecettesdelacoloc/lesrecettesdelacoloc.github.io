@@ -6,7 +6,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #CCEBD3;
   margin: 0 auto;
-  padding: 30px 20px 30px 60px;
+  padding: 30px 20px;
   max-width: 1200px;
   line-height: 1.6;
 }
@@ -215,6 +215,7 @@ article.recette ul,
 article.recette ol {
   background-color: #ABDEB7;
   padding: clamp(18px, 3vw, 30px);
+  padding-left: clamp(40px, 5vw, 50px);
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   margin-top: 20px;
@@ -223,6 +224,7 @@ article.recette ol {
 article.recette p,
 article.recette li {
   word-wrap: break-word;
+  margin-left: 20px;
 }
 
 main section {
@@ -236,7 +238,7 @@ footer {
 
 @media (max-width: 768px) {
   body {
-    padding: 20px 15px 20px 40px;
+    padding: 20px 15px;
   }
 
   nav ul li {
@@ -257,11 +259,16 @@ footer {
   article.recette {
     padding: 18px 15px;
   }
+
+  article.recette ul,
+  article.recette ol {
+    padding-left: 30px;
+  }
 }
 
 @media (max-width: 480px) {
   body {
-    padding: 12px 10px 12px 25px;
+    padding: 12px 10px;
   }
 
   nav ul li {
@@ -283,6 +290,7 @@ footer {
   article.recette ul,
   article.recette ol {
     padding: 14px 12px;
+    padding-left: 25px;
     margin-left: 0;
     margin-right: 0;
   }
